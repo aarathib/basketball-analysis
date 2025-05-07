@@ -26,8 +26,8 @@ This project uses a PyTorch LSTM model to predict basketball shot outcomes and s
    - **Output**: Inference logs in console and visualization plots (`shot_{shot_id}_feedback.png`) at `/content/drive/MyDrive/smai_project/output_graphs/`
 
 ### Dataset and Model Weights
-- **Dataset**: Access the dataset [here]([https://drive.google.com/drive/folders/your-dataset-folder-id](https://drive.google.com/drive/folders/1hPWqSlkWbCqs7E1m6KvizrVXvLOix-KA?usp=drive_link)).
-- **Model Weights**: Download the trained model weights [here]([https://drive.google.com/drive/folders/your-model-folder-id](https://drive.google.com/drive/folders/13GeHyJfwCHUMA-CUH_1ioNbgEkOW_nYg?usp=drive_link)).
+- **Dataset**: Access the dataset [here]([https://drive.google.com/drive/folders/your-dataset-folder-id](https://drive.google.com/drive/folders/1hPWqSlkWbCqs7E1m6KvizrVXvLOix-KA?usp=drive_link]).
+- **Model Weights**: Download the trained model weights [here]([https://drive.google.com/drive/folders/your-model-folder-id](https://drive.google.com/drive/folders/13GeHyJfwCHUMA-CUH_1ioNbgEkOW_nYg?usp=drive_link]).
 
 ### Usage
 1. Clone this repository.
